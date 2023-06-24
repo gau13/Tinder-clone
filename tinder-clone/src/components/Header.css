@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__logo {
+  height: 70px;
+  object-fit: contain;
+}
+
+.header__icon {
+  padding: 30px;
+}
+
+.card > h3 {
+  bottom: 10px;
+  position: absolute;
+  color: white;
+}

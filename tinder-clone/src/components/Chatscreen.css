@@ -1,0 +1,25 @@
+.chatscreen__message {
+  display: flex;
+  padding: 20px;
+}
+
+.chatscreen > p {
+  text-align: center;
+  color: rgb(135, 135, 135);
+}
+.chatscreen__image {
+  margin-right: 20px;
+}
+.chatscreen__text {
+  background-color: rgb(152, 152, 152);
+  border-radius: 20px;
+  color: white;
+  padding: 10px;
+}
+.chatscreen__textuser {
+  margin-left: auto;
+  background-color: rgb(31, 146, 234);
+  border-radius: 20px;
+  padding: 10px;
+  color: white;
+}
